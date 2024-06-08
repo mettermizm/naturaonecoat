@@ -39,5 +39,5 @@ const ratingValue = ref(5)
         :fetch-interval="refreshIntervalMS / 1000"
       />
     </div>
-  </div>
+  </div>  
 </template>
